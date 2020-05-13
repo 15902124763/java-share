@@ -8,6 +8,7 @@
         <module>elasticsearch</module>
         <module>mysql</module>
         <module>common</module>
+        <module>redis</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
