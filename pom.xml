@@ -9,6 +9,7 @@
         <module>mysql</module>
         <module>common</module>
         <module>redis</module>
+        <module>japi-docs</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
