@@ -1,0 +1,9 @@
+# boot
+server:
+  port: 9001
+spring:
+  profiles:
+    active: dev
+  application:
+    name: account-data-job
+
