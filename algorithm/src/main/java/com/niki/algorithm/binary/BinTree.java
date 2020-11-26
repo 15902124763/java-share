@@ -1,4 +1,4 @@
-package com.niki.algorithm.queue;
+package com.niki.algorithm.binary;
 
 /**
  * Created by IntelliJ IDEA.
@@ -22,6 +22,3 @@ public class BinTree<T> {
     private BinTree root;
 }
 
-class SortBinTree{
-    // 先序
-}
